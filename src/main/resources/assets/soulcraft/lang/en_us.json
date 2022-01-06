@@ -1,5 +1,6 @@
 {
   "item.soulcraft.divine_fragments": "§5§o§lDivine §5§lFragment",
   "itemGroup.soulcraft.artifacts": "§6§lArtifacts ",
-  "item.soulcraft.divine_fragments.tooltip": "Remnants of an age long forgotten by humanity"
+  "item.soulcraft.divine_fragments.tooltip": "Remnants of an age long forgotten by humanity",
+  "block.soulcraft.divine_ore": "§lDivine Ore"
 }
