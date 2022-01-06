@@ -8,7 +8,7 @@ For setup instructions please see the [fabric wiki page](https://fabricmc.net/wi
 
 This template is available under the CC0 license. Feel free to learn from it and incorporate it in your own projects.
 # Soul-Craft
-https://www.notion.so/Launchpad-70f61667762f4a67a88a6611819b638c
+Link: https://www.notion.so/Launchpad-70f61667762f4a67a88a6611819b638c
 
 ### TO DO
 
